@@ -1,7 +1,7 @@
 #EJERCICIO 1
 # Tupla de países
-
 paises = ("Argentina", "México", "España", "Colombia", "Perú")
+
 
 # Mostrar el tercer elemento (índice 2)
 print("El tercer país es:", paises[2])
